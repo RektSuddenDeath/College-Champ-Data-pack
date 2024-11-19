@@ -1,2 +1,0 @@
-
-bossbar remove warning_bossbar

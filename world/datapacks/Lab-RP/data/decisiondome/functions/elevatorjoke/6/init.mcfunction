@@ -1,1 +1,0 @@
-function decisiondome:elevatorjoke/6/loop

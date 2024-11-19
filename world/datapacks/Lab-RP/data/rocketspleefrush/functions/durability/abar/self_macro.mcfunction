@@ -1,3 +1,0 @@
-
-
-$title @s actionbar ["",{"text": "3","font": "space:backspace"},{"text": "$(type)","font": "ui","color": "#4E5C24"},{"text":"6","font":"space:default"},{"text": "\ua002","font":"ui","color": "#4E5C24"},"","","",{"text": "865332","font": "space:backspace"},{"text": "䅄","color": "#4E5C24"},{"text": "9","font": "space:default"},"$(dura)",{"text":"688","font":"space:default"},{"text": "牖","color": "#4E5C24"},{"text": "8","font": "space:default"},$(clip)]

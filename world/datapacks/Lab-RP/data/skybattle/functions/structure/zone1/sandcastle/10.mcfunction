@@ -1,1 +1,0 @@
-setblock 22025 0 22026 redstone_block

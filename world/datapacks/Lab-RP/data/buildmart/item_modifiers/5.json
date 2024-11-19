@@ -1,7 +1,0 @@
-[
-    {
-      "function": "minecraft:set_nbt",
-      "tag": "{CanDestroy:[cyan_stained_glass,cyan_wool,pink_stained_glass,pink_wool]}"
-    }
-  ]
-  

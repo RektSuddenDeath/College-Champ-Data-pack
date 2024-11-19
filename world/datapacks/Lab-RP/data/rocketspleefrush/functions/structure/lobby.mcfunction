@@ -1,1 +1,0 @@
-place template rocketspleefrush:lobby -8012 200 -8012

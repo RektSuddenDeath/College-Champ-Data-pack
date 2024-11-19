@@ -1,7 +1,0 @@
-[
-    {
-      "function": "minecraft:set_nbt",
-      "tag": "{CanDestroy:[stone,andesite,granite,diorite]}"
-    }
-  ]
-  

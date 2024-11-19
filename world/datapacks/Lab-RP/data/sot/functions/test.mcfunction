@@ -1,1 +1,0 @@
-give @s creeper_spawn_egg{EntityTag:{Tags:["fixed"]}}

@@ -1,6 +1,0 @@
-
-scoreboard objectives add temp_meltdown_map dummy
-scoreboard players set current_mainhand_id temp_meltdown_map 76
-scoreboard players set current_offhand_id temp_meltdown_map 77
-
-function meltdown:map_refresh/givemap_loop

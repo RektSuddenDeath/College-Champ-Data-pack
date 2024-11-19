@@ -1,1 +1,0 @@
-place template sba:wasteland 33893 0 33901

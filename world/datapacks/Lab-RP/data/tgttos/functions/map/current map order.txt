@@ -1,7 +1,0 @@
-10th Iteration:
-1: Cavern Drive
-2. Racetrack
-3. Boats
-4. Swimtrack
-5. Pitfall
-6. Pipes

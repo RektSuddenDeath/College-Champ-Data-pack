@@ -1,7 +1,0 @@
-[
-    {
-      "function": "minecraft:set_nbt",
-      "tag": "{CanPlaceOn:[smooth_quartz,emerald_block,gold_block,diamond_block,lapis_block,waxed_oxidized_cut_copper],modified:1b}"
-    }
-  ]
-  

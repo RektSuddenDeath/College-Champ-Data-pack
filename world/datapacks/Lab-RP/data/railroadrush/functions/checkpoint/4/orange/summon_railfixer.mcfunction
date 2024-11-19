@@ -1,2 +1,0 @@
-
-execute as @e[type=marker,tag=rrr_main_anchor,tag=team_orange] at @s run summon minecart ~337 116 ~20 {Tags:["rrr_minecart","team_orange","no_explode","rail_fixer","cp4"],Motion:[0.4d,0d,0d],CustomDisplayTile:true,DisplayState:{Name:"minecraft:orange_terracotta"},DisplayOffset:4,Invulnerable:1b,CustomNameVisible:true,CustomName:'"§a||||||||||||||||||||§7"',Passengers:[{id:"marker",Tags:["minecart_occupier"]}]}

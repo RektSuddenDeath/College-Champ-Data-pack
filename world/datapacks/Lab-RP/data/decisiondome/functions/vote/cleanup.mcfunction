@@ -1,2 +1,0 @@
-schedule clear decisiondome:vote/tiesector
-function decisiondome:setup

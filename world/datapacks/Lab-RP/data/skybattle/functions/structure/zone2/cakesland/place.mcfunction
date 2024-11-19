@@ -1,1 +1,0 @@
-place template sba:cakesland 42905 0 42905

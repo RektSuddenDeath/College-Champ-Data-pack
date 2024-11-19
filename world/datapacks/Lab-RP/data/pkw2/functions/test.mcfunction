@@ -1,9 +1,0 @@
-item replace entity @a[team=!spec] hotbar.0 with iron_nugget{display:{Name:'""'},CustomModelData:20031}
-item replace entity @a[team=!spec] hotbar.1 with iron_nugget{display:{Name:'""'},CustomModelData:20031}
-item replace entity @a[team=!spec] hotbar.2 with knowledge_book{display:{Name:'["§r§6§l回到所在大关关口"]'}}
-item replace entity @a[team=!spec] hotbar.3 with iron_nugget{display:{Name:'""'},CustomModelData:20031}
-item replace entity @a[team=!spec] hotbar.4 with iron_nugget{display:{Name:'""'},CustomModelData:20031}
-item replace entity @a[team=!spec] hotbar.5 with iron_nugget{display:{Name:'"§7暂无石奖牌"'},CustomModelData:20020}
-item replace entity @a[team=!spec] hotbar.6 with iron_nugget{display:{Name:'"§7暂无铜奖牌"'},CustomModelData:20020}
-item replace entity @a[team=!spec] hotbar.7 with iron_nugget{display:{Name:'"§7暂无银奖牌"'},CustomModelData:20020}
-item replace entity @a[team=!spec] hotbar.8 with iron_nugget{display:{Name:'"§7暂无金奖牌"'},CustomModelData:20020}

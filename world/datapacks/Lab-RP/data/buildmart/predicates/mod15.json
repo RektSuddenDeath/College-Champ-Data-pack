@@ -1,8 +1,0 @@
-[
-    {
-      "condition": "minecraft:entity_properties",
-      "entity": "this",
-      "predicate": {
-        "nbt": "{SelectedItem:{tag:{CanDestroy:[nether_wart_block,nether_bricks,soul_sand,glowstone,nether_quartz_ore]}}}"
-      }
-    }]
