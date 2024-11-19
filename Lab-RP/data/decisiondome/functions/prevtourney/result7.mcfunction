@@ -1,0 +1,12 @@
+
+tellraw @s ["",{"text": "College Championship 7 Results:"}]
+tellraw @s ["","1. ",{"text": "上海交通大学","color": "blue"},": ",{"text": "23286"}]
+tellraw @s ["","2. ",{"text": "南京理工大学 东南大学","color": "dark_purple"},": ",{"text": "20048"}]
+tellraw @s ["","3. ",{"text": "华中科技大学 南京大学","color": "gold"},": ",{"text": "17266"}]
+tellraw @s ["","4. ",{"text": "同济大学 北京航空航天大学","color": "light_purple"},": ",{"text": "16744"}]
+tellraw @s ["","5. ",{"text": "中南大学 燕山大学","color": "dark_aqua"},": ",{"text": "14186"}]
+tellraw @s ["","6. ",{"text": "河北金融学院 南京林业大学","color": "red"},": ",{"text": "13518"}]
+tellraw @s ["","7. ",{"text": "吉林大学 浙江工业大学","color": "yellow"},": ",{"text": "12112"}]
+tellraw @s ["","8. ",{"text": "青岛科技大学","color": "green"},": ",{"text": "8220"}]
+tellraw @s ["",{"text": "Dodgebolt: ","bold": true},{"text": "上交","color": "blue"}," 2:3 ",{"text": "南理东南","color": "dark_purple"}]
+tellraw @s ["",{"text": "南理东南队赢得了第 7 届高校小游戏联赛！","color": "dark_purple","bold": true}]

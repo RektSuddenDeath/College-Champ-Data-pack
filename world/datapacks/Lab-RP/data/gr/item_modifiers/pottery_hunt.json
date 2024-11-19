@@ -1,0 +1,7 @@
+[
+    {
+      "function": "minecraft:set_nbt",
+      "tag": "{CanPlaceOn:[orange_stained_glass],modified:1b}"
+    }
+  ]
+  

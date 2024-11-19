@@ -1,0 +1,57 @@
+execute if score widthactive sba_game matches 0 if score height sba_game matches 3.. run execute as @e[type=area_effect_cloud,tag=borderwidth,tag=force] at @s run particle dust 0 0.816 1 7 ~ 4 ~ 0.02 0.02 0.02 0 0 force
+execute if score widthactive sba_game matches 0 if score height sba_game matches 7.. run execute as @e[type=area_effect_cloud,tag=borderwidth,tag=force] at @s run particle dust 0 0.816 1 7 ~ 8 ~ 0.02 0.02 0.02 0 0 force
+execute if score widthactive sba_game matches 0 if score height sba_game matches 11.. run execute as @e[type=area_effect_cloud,tag=borderwidth,tag=force] at @s run particle dust 0 0.816 1 7 ~ 12 ~ 0.02 0.02 0.02 0 0 force
+execute if score widthactive sba_game matches 0 if score height sba_game matches 15.. run execute as @e[type=area_effect_cloud,tag=borderwidth,tag=force] at @s run particle dust 0 0.816 1 7 ~ 16 ~ 0.02 0.02 0.02 0 0 force
+execute if score widthactive sba_game matches 0 if score height sba_game matches 19.. run execute as @e[type=area_effect_cloud,tag=borderwidth,tag=force] at @s run particle dust 0 0.816 1 7 ~ 20 ~ 0.02 0.02 0.02 0 0 force
+execute if score widthactive sba_game matches 0 if score height sba_game matches 23.. run execute as @e[type=area_effect_cloud,tag=borderwidth,tag=force] at @s run particle dust 0 0.816 1 7 ~ 24 ~ 0.02 0.02 0.02 0 0 force
+execute if score widthactive sba_game matches 0 if score height sba_game matches 27.. run execute as @e[type=area_effect_cloud,tag=borderwidth,tag=force] at @s run particle dust 0 0.816 1 7 ~ 28 ~ 0.02 0.02 0.02 0 0 force
+execute if score widthactive sba_game matches 0 if score height sba_game matches 31.. run execute as @e[type=area_effect_cloud,tag=borderwidth,tag=force] at @s run particle dust 0 0.816 1 7 ~ 32 ~ 0.02 0.02 0.02 0 0 force
+execute if score widthactive sba_game matches 0 if score height sba_game matches 35.. run execute as @e[type=area_effect_cloud,tag=borderwidth,tag=force] at @s run particle dust 0 0.816 1 7 ~ 36 ~ 0.02 0.02 0.02 0 0 force
+execute if score widthactive sba_game matches 0 if score height sba_game matches 39.. run execute as @e[type=area_effect_cloud,tag=borderwidth,tag=force] at @s run particle dust 0 0.816 1 7 ~ 40 ~ 0.02 0.02 0.02 0 0 force
+execute if score widthactive sba_game matches 0 if score height sba_game matches 43.. run execute as @e[type=area_effect_cloud,tag=borderwidth,tag=force] at @s run particle dust 0 0.816 1 7 ~ 44 ~ 0.02 0.02 0.02 0 0 force
+execute if score widthactive sba_game matches 0 if score height sba_game matches 47.. run execute as @e[type=area_effect_cloud,tag=borderwidth,tag=force] at @s run particle dust 0 0.816 1 7 ~ 48 ~ 0.02 0.02 0.02 0 0 force
+execute if score widthactive sba_game matches 0 if score height sba_game matches 51.. run execute as @e[type=area_effect_cloud,tag=borderwidth,tag=force] at @s run particle dust 0 0.816 1 7 ~ 52 ~ 0.02 0.02 0.02 0 0 force
+
+execute if score widthactive sba_game matches 1 if score height sba_game matches 3.. run execute as @e[type=area_effect_cloud,tag=borderwidth,tag=force] at @s run particle dust 1 0 0 7 ~ 4 ~ 0.02 0.02 0.02 0 0 force
+execute if score widthactive sba_game matches 1 if score height sba_game matches 7.. run execute as @e[type=area_effect_cloud,tag=borderwidth,tag=force] at @s run particle dust 1 0 0 7 ~ 8 ~ 0.02 0.02 0.02 0 0 force
+execute if score widthactive sba_game matches 1 if score height sba_game matches 11.. run execute as @e[type=area_effect_cloud,tag=borderwidth,tag=force] at @s run particle dust 1 0 0 7 ~ 12 ~ 0.02 0.02 0.02 0 0 force
+execute if score widthactive sba_game matches 1 if score height sba_game matches 15.. run execute as @e[type=area_effect_cloud,tag=borderwidth,tag=force] at @s run particle dust 1 0 0 7 ~ 16 ~ 0.02 0.02 0.02 0 0 force
+execute if score widthactive sba_game matches 1 if score height sba_game matches 19.. run execute as @e[type=area_effect_cloud,tag=borderwidth,tag=force] at @s run particle dust 1 0 0 7 ~ 20 ~ 0.02 0.02 0.02 0 0 force
+execute if score widthactive sba_game matches 1 if score height sba_game matches 23.. run execute as @e[type=area_effect_cloud,tag=borderwidth,tag=force] at @s run particle dust 1 0 0 7 ~ 24 ~ 0.02 0.02 0.02 0 0 force
+execute if score widthactive sba_game matches 1 if score height sba_game matches 27.. run execute as @e[type=area_effect_cloud,tag=borderwidth,tag=force] at @s run particle dust 1 0 0 7 ~ 28 ~ 0.02 0.02 0.02 0 0 force
+execute if score widthactive sba_game matches 1 if score height sba_game matches 31.. run execute as @e[type=area_effect_cloud,tag=borderwidth,tag=force] at @s run particle dust 1 0 0 7 ~ 32 ~ 0.02 0.02 0.02 0 0 force
+execute if score widthactive sba_game matches 1 if score height sba_game matches 35.. run execute as @e[type=area_effect_cloud,tag=borderwidth,tag=force] at @s run particle dust 1 0 0 7 ~ 36 ~ 0.02 0.02 0.02 0 0 force
+execute if score widthactive sba_game matches 1 if score height sba_game matches 39.. run execute as @e[type=area_effect_cloud,tag=borderwidth,tag=force] at @s run particle dust 1 0 0 7 ~ 40 ~ 0.02 0.02 0.02 0 0 force
+execute if score widthactive sba_game matches 1 if score height sba_game matches 43.. run execute as @e[type=area_effect_cloud,tag=borderwidth,tag=force] at @s run particle dust 1 0 0 7 ~ 44 ~ 0.02 0.02 0.02 0 0 force
+execute if score widthactive sba_game matches 1 if score height sba_game matches 47.. run execute as @e[type=area_effect_cloud,tag=borderwidth,tag=force] at @s run particle dust 1 0 0 7 ~ 48 ~ 0.02 0.02 0.02 0 0 force
+execute if score widthactive sba_game matches 1 if score height sba_game matches 51.. run execute as @e[type=area_effect_cloud,tag=borderwidth,tag=force] at @s run particle dust 1 0 0 7 ~ 52 ~ 0.02 0.02 0.02 0 0 force
+
+execute if score widthactive sba_game matches 0 if score height sba_game matches 3.. run execute as @e[type=area_effect_cloud,tag=borderwidth,tag=!force] at @s run particle dust 0 0.816 1 7 ~ 2 ~ 0.02 0.02 0.02 0 0
+execute if score widthactive sba_game matches 0 if score height sba_game matches 7.. run execute as @e[type=area_effect_cloud,tag=borderwidth,tag=!force] at @s run particle dust 0 0.816 1 7 ~ 6 ~ 0.02 0.02 0.02 0 0
+execute if score widthactive sba_game matches 0 if score height sba_game matches 11.. run execute as @e[type=area_effect_cloud,tag=borderwidth,tag=!force] at @s run particle dust 0 0.816 1 7 ~ 10 ~ 0.02 0.02 0.02 0 0
+execute if score widthactive sba_game matches 0 if score height sba_game matches 15.. run execute as @e[type=area_effect_cloud,tag=borderwidth,tag=!force] at @s run particle dust 0 0.816 1 7 ~ 14 ~ 0.02 0.02 0.02 0 0
+execute if score widthactive sba_game matches 0 if score height sba_game matches 19.. run execute as @e[type=area_effect_cloud,tag=borderwidth,tag=!force] at @s run particle dust 0 0.816 1 7 ~ 18 ~ 0.02 0.02 0.02 0 0
+execute if score widthactive sba_game matches 0 if score height sba_game matches 23.. run execute as @e[type=area_effect_cloud,tag=borderwidth,tag=!force] at @s run particle dust 0 0.816 1 7 ~ 22 ~ 0.02 0.02 0.02 0 0
+execute if score widthactive sba_game matches 0 if score height sba_game matches 27.. run execute as @e[type=area_effect_cloud,tag=borderwidth,tag=!force] at @s run particle dust 0 0.816 1 7 ~ 26 ~ 0.02 0.02 0.02 0 0
+execute if score widthactive sba_game matches 0 if score height sba_game matches 31.. run execute as @e[type=area_effect_cloud,tag=borderwidth,tag=!force] at @s run particle dust 0 0.816 1 7 ~ 30 ~ 0.02 0.02 0.02 0 0
+execute if score widthactive sba_game matches 0 if score height sba_game matches 35.. run execute as @e[type=area_effect_cloud,tag=borderwidth,tag=!force] at @s run particle dust 0 0.816 1 7 ~ 34 ~ 0.02 0.02 0.02 0 0
+execute if score widthactive sba_game matches 0 if score height sba_game matches 39.. run execute as @e[type=area_effect_cloud,tag=borderwidth,tag=!force] at @s run particle dust 0 0.816 1 7 ~ 38 ~ 0.02 0.02 0.02 0 0
+execute if score widthactive sba_game matches 0 if score height sba_game matches 43.. run execute as @e[type=area_effect_cloud,tag=borderwidth,tag=!force] at @s run particle dust 0 0.816 1 7 ~ 42 ~ 0.02 0.02 0.02 0 0
+execute if score widthactive sba_game matches 0 if score height sba_game matches 47.. run execute as @e[type=area_effect_cloud,tag=borderwidth,tag=!force] at @s run particle dust 0 0.816 1 7 ~ 46 ~ 0.02 0.02 0.02 0 0
+execute if score widthactive sba_game matches 0 if score height sba_game matches 51.. run execute as @e[type=area_effect_cloud,tag=borderwidth,tag=!force] at @s run particle dust 0 0.816 1 7 ~ 50 ~ 0.02 0.02 0.02 0 0
+
+execute if score widthactive sba_game matches 1 if score height sba_game matches 3.. run execute as @e[type=area_effect_cloud,tag=borderwidth,tag=!force] at @s run particle dust 1 0 0 7 ~ 2 ~ 0.02 0.02 0.02 0 0
+execute if score widthactive sba_game matches 1 if score height sba_game matches 7.. run execute as @e[type=area_effect_cloud,tag=borderwidth,tag=!force] at @s run particle dust 1 0 0 7 ~ 6 ~ 0.02 0.02 0.02 0 0
+execute if score widthactive sba_game matches 1 if score height sba_game matches 11.. run execute as @e[type=area_effect_cloud,tag=borderwidth,tag=!force] at @s run particle dust 1 0 0 7 ~ 10 ~ 0.02 0.02 0.02 0 0
+execute if score widthactive sba_game matches 1 if score height sba_game matches 15.. run execute as @e[type=area_effect_cloud,tag=borderwidth,tag=!force] at @s run particle dust 1 0 0 7 ~ 14 ~ 0.02 0.02 0.02 0 0
+execute if score widthactive sba_game matches 1 if score height sba_game matches 19.. run execute as @e[type=area_effect_cloud,tag=borderwidth,tag=!force] at @s run particle dust 1 0 0 7 ~ 18 ~ 0.02 0.02 0.02 0 0
+execute if score widthactive sba_game matches 1 if score height sba_game matches 23.. run execute as @e[type=area_effect_cloud,tag=borderwidth,tag=!force] at @s run particle dust 1 0 0 7 ~ 22 ~ 0.02 0.02 0.02 0 0
+execute if score widthactive sba_game matches 1 if score height sba_game matches 27.. run execute as @e[type=area_effect_cloud,tag=borderwidth,tag=!force] at @s run particle dust 1 0 0 7 ~ 26 ~ 0.02 0.02 0.02 0 0
+execute if score widthactive sba_game matches 1 if score height sba_game matches 31.. run execute as @e[type=area_effect_cloud,tag=borderwidth,tag=!force] at @s run particle dust 1 0 0 7 ~ 30 ~ 0.02 0.02 0.02 0 0
+execute if score widthactive sba_game matches 1 if score height sba_game matches 35.. run execute as @e[type=area_effect_cloud,tag=borderwidth,tag=!force] at @s run particle dust 1 0 0 7 ~ 34 ~ 0.02 0.02 0.02 0 0
+execute if score widthactive sba_game matches 1 if score height sba_game matches 39.. run execute as @e[type=area_effect_cloud,tag=borderwidth,tag=!force] at @s run particle dust 1 0 0 7 ~ 38 ~ 0.02 0.02 0.02 0 0
+execute if score widthactive sba_game matches 1 if score height sba_game matches 43.. run execute as @e[type=area_effect_cloud,tag=borderwidth,tag=!force] at @s run particle dust 1 0 0 7 ~ 42 ~ 0.02 0.02 0.02 0 0
+execute if score widthactive sba_game matches 1 if score height sba_game matches 47.. run execute as @e[type=area_effect_cloud,tag=borderwidth,tag=!force] at @s run particle dust 1 0 0 7 ~ 46 ~ 0.02 0.02 0.02 0 0
+execute if score widthactive sba_game matches 1 if score height sba_game matches 51.. run execute as @e[type=area_effect_cloud,tag=borderwidth,tag=!force] at @s run particle dust 1 0 0 7 ~ 50 ~ 0.02 0.02 0.02 0 0
+
+scoreboard players set widthcd sba_game 0

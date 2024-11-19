@@ -1,0 +1,8 @@
+[
+    {
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "nbt": "{SelectedItem:{tag:{CanDestroy:[waxed_copper_block,waxed_cut_copper,waxed_oxidized_cut_copper,waxed_oxidized_copper]}}}"
+      }
+    }]

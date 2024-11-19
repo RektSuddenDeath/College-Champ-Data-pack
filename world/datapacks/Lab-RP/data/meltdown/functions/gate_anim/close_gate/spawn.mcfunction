@@ -1,0 +1,2 @@
+execute as @e[type=marker,tag=gate_anchor,tag=spawn_north] at @s run fill ~2 ~ ~ ~-2 ~3 ~ cyan_stained_glass
+execute as @e[type=marker,tag=gate_anchor,tag=spawn_east] at @s run fill ~ ~ ~2 ~ ~3 ~-2 cyan_stained_glass

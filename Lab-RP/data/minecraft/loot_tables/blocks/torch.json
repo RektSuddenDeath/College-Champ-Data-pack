@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        },
+        {
+          "condition": "minecraft:inverted",
+          "term": {
+            "condition": "minecraft:match_tool",
+            "predicate": {
+              "nbt": "{isSotTool:1b}"
+            }
+          }
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:torch",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag":"{isSotTool:1b,CanPlaceOn:[\"#minecraft:except_light_blue_wool\"],CanDestroy:[sand,light_blue_carpet,cracked_stone_bricks,suspicious_sand],HideFlags:24}"
+            }
+          ]
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

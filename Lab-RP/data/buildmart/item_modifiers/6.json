@@ -1,0 +1,7 @@
+[
+    {
+      "function": "minecraft:set_nbt",
+      "tag": "{CanDestroy:[purple_stained_glass,purple_wool]}"
+    }
+  ]
+  

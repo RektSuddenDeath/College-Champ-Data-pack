@@ -1,0 +1,39 @@
+execute as @e[type=area_effect_cloud,tag=bordercenter] at @s run summon area_effect_cloud ~ ~ ~ {Duration:9999999,Tags:[skybattle,borderwidth],Rotation:[0f,0f]}
+execute as @e[type=area_effect_cloud,tag=bordercenter] at @s run summon area_effect_cloud ~ ~ ~ {Duration:9999999,Tags:[skybattle,borderwidth,force],Rotation:[10f,0f]}
+execute as @e[type=area_effect_cloud,tag=bordercenter] at @s run summon area_effect_cloud ~ ~ ~ {Duration:9999999,Tags:[skybattle,borderwidth],Rotation:[20f,0f]}
+execute as @e[type=area_effect_cloud,tag=bordercenter] at @s run summon area_effect_cloud ~ ~ ~ {Duration:9999999,Tags:[skybattle,borderwidth,force],Rotation:[30f,0f]}
+execute as @e[type=area_effect_cloud,tag=bordercenter] at @s run summon area_effect_cloud ~ ~ ~ {Duration:9999999,Tags:[skybattle,borderwidth],Rotation:[40f,0f]}
+execute as @e[type=area_effect_cloud,tag=bordercenter] at @s run summon area_effect_cloud ~ ~ ~ {Duration:9999999,Tags:[skybattle,borderwidth,force],Rotation:[50f,0f]}
+execute as @e[type=area_effect_cloud,tag=bordercenter] at @s run summon area_effect_cloud ~ ~ ~ {Duration:9999999,Tags:[skybattle,borderwidth],Rotation:[60f,0f]}
+execute as @e[type=area_effect_cloud,tag=bordercenter] at @s run summon area_effect_cloud ~ ~ ~ {Duration:9999999,Tags:[skybattle,borderwidth,force],Rotation:[70f,0f]}
+execute as @e[type=area_effect_cloud,tag=bordercenter] at @s run summon area_effect_cloud ~ ~ ~ {Duration:9999999,Tags:[skybattle,borderwidth],Rotation:[80f,0f]}
+execute as @e[type=area_effect_cloud,tag=bordercenter] at @s run summon area_effect_cloud ~ ~ ~ {Duration:9999999,Tags:[skybattle,borderwidth,force],Rotation:[90f,0f]}
+execute as @e[type=area_effect_cloud,tag=bordercenter] at @s run summon area_effect_cloud ~ ~ ~ {Duration:9999999,Tags:[skybattle,borderwidth],Rotation:[100f,0f]}
+execute as @e[type=area_effect_cloud,tag=bordercenter] at @s run summon area_effect_cloud ~ ~ ~ {Duration:9999999,Tags:[skybattle,borderwidth,force],Rotation:[110f,0f]}
+execute as @e[type=area_effect_cloud,tag=bordercenter] at @s run summon area_effect_cloud ~ ~ ~ {Duration:9999999,Tags:[skybattle,borderwidth],Rotation:[120f,0f]}
+execute as @e[type=area_effect_cloud,tag=bordercenter] at @s run summon area_effect_cloud ~ ~ ~ {Duration:9999999,Tags:[skybattle,borderwidth,force],Rotation:[130f,0f]}
+execute as @e[type=area_effect_cloud,tag=bordercenter] at @s run summon area_effect_cloud ~ ~ ~ {Duration:9999999,Tags:[skybattle,borderwidth],Rotation:[140f,0f]}
+execute as @e[type=area_effect_cloud,tag=bordercenter] at @s run summon area_effect_cloud ~ ~ ~ {Duration:9999999,Tags:[skybattle,borderwidth,force],Rotation:[150f,0f]}
+execute as @e[type=area_effect_cloud,tag=bordercenter] at @s run summon area_effect_cloud ~ ~ ~ {Duration:9999999,Tags:[skybattle,borderwidth],Rotation:[160f,0f]}
+execute as @e[type=area_effect_cloud,tag=bordercenter] at @s run summon area_effect_cloud ~ ~ ~ {Duration:9999999,Tags:[skybattle,borderwidth,force],Rotation:[170f,0f]}
+execute as @e[type=area_effect_cloud,tag=bordercenter] at @s run summon area_effect_cloud ~ ~ ~ {Duration:9999999,Tags:[skybattle,borderwidth],Rotation:[180f,0f]}
+execute as @e[type=area_effect_cloud,tag=bordercenter] at @s run summon area_effect_cloud ~ ~ ~ {Duration:9999999,Tags:[skybattle,borderwidth,force],Rotation:[190f,0f]}
+execute as @e[type=area_effect_cloud,tag=bordercenter] at @s run summon area_effect_cloud ~ ~ ~ {Duration:9999999,Tags:[skybattle,borderwidth],Rotation:[200f,0f]}
+execute as @e[type=area_effect_cloud,tag=bordercenter] at @s run summon area_effect_cloud ~ ~ ~ {Duration:9999999,Tags:[skybattle,borderwidth,force],Rotation:[210f,0f]}
+execute as @e[type=area_effect_cloud,tag=bordercenter] at @s run summon area_effect_cloud ~ ~ ~ {Duration:9999999,Tags:[skybattle,borderwidth],Rotation:[220f,0f]}
+execute as @e[type=area_effect_cloud,tag=bordercenter] at @s run summon area_effect_cloud ~ ~ ~ {Duration:9999999,Tags:[skybattle,borderwidth,force],Rotation:[230f,0f]}
+execute as @e[type=area_effect_cloud,tag=bordercenter] at @s run summon area_effect_cloud ~ ~ ~ {Duration:9999999,Tags:[skybattle,borderwidth],Rotation:[240f,0f]}
+execute as @e[type=area_effect_cloud,tag=bordercenter] at @s run summon area_effect_cloud ~ ~ ~ {Duration:9999999,Tags:[skybattle,borderwidth,force],Rotation:[250f,0f]}
+execute as @e[type=area_effect_cloud,tag=bordercenter] at @s run summon area_effect_cloud ~ ~ ~ {Duration:9999999,Tags:[skybattle,borderwidth],Rotation:[260f,0f]}
+execute as @e[type=area_effect_cloud,tag=bordercenter] at @s run summon area_effect_cloud ~ ~ ~ {Duration:9999999,Tags:[skybattle,borderwidth,force],Rotation:[270f,0f]}
+execute as @e[type=area_effect_cloud,tag=bordercenter] at @s run summon area_effect_cloud ~ ~ ~ {Duration:9999999,Tags:[skybattle,borderwidth],Rotation:[280f,0f]}
+execute as @e[type=area_effect_cloud,tag=bordercenter] at @s run summon area_effect_cloud ~ ~ ~ {Duration:9999999,Tags:[skybattle,borderwidth,force],Rotation:[290f,0f]}
+execute as @e[type=area_effect_cloud,tag=bordercenter] at @s run summon area_effect_cloud ~ ~ ~ {Duration:9999999,Tags:[skybattle,borderwidth],Rotation:[300f,0f]}
+execute as @e[type=area_effect_cloud,tag=bordercenter] at @s run summon area_effect_cloud ~ ~ ~ {Duration:9999999,Tags:[skybattle,borderwidth,force],Rotation:[310f,0f]}
+execute as @e[type=area_effect_cloud,tag=bordercenter] at @s run summon area_effect_cloud ~ ~ ~ {Duration:9999999,Tags:[skybattle,borderwidth],Rotation:[320f,0f]}
+execute as @e[type=area_effect_cloud,tag=bordercenter] at @s run summon area_effect_cloud ~ ~ ~ {Duration:9999999,Tags:[skybattle,borderwidth,force],Rotation:[330f,0f]}
+execute as @e[type=area_effect_cloud,tag=bordercenter] at @s run summon area_effect_cloud ~ ~ ~ {Duration:9999999,Tags:[skybattle,borderwidth],Rotation:[340f,0f]}
+execute as @e[type=area_effect_cloud,tag=bordercenter] at @s run summon area_effect_cloud ~ ~ ~ {Duration:9999999,Tags:[skybattle,borderwidth,force],Rotation:[350f,0f]}
+
+execute if score map sba_game matches 1 run execute as @e[type=area_effect_cloud,tag=borderwidth] at @s run tp @s ~ 40 ~
+execute if score map sba_game matches 2 run execute as @e[type=area_effect_cloud,tag=borderwidth] at @s run tp @s ~ 40 ~

@@ -1,0 +1,7 @@
+[
+    {
+      "function": "minecraft:set_nbt",
+      "tag": "{CanDestroy:[oak_log,birch_log,spruce_log,mangrove_log,cherry_log]}"
+    }
+  ]
+  

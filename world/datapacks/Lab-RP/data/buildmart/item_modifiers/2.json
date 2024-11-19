@@ -1,0 +1,7 @@
+[
+    {
+      "function": "minecraft:set_nbt",
+      "tag": "{CanDestroy:[lime_stained_glass,lime_wool]}"
+    }
+  ]
+  

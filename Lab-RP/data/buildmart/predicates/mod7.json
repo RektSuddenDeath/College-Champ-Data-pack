@@ -1,0 +1,8 @@
+[
+    {
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "nbt": "{SelectedItem:{tag:{CanDestroy:[black_stained_glass,black_wool]}}}"
+      }
+    }]

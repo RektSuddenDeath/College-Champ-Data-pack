@@ -1,0 +1,1 @@
+give @s cobweb{CanPlaceOn:[player_head,acacia_slab,quartz_pillar,quartz_bricks,chiseled_quartz_block,stripped_birch_wood,composter,barrel,bookshelf,oak_planks,oak_slab,iron_trapdoor,redstone_lamp,brown_carpet,note_block,quartz_stairs,white_stained_glass,stripped_jungle_wood,birch_slab],HideFlags:24}

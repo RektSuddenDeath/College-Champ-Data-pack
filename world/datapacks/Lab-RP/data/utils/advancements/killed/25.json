@@ -1,0 +1,36 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:barrier"
+      },
+      "title": "",
+      "description": "",
+      "show_toast": false,
+      "announce_to_chat": false,
+      "hidden": true
+    },
+    "parent": "utils:killed",
+    "criteria": {
+      "kill_id": {
+        "trigger": "minecraft:player_killed_entity",
+        "conditions": {
+          "entity": [
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "type": "minecraft:player",
+                "type_specific": {
+                  "type": "player",
+                  "advancements": {
+                    "utils:id/25": true
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+  

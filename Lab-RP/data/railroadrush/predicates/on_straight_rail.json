@@ -1,0 +1,89 @@
+{
+    "condition": "minecraft:any_of",
+    "terms": [
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+          "location": {
+            "block": {
+              "block": "#minecraft:rails",
+              "state": {
+                "shape": "east_west"
+              }
+            }
+          }
+        }
+      },
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+          "location": {
+            "block": {
+              "block": "#minecraft:rails",
+              "state": {
+                "shape": "north_south"
+              }
+            }
+          }
+        }
+      },
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+          "location": {
+            "block": {
+              "state": {
+                "shape": "ascending_east"
+              }
+            }
+          }
+        }
+      },
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+          "location": {
+            "block": {
+              "block": "#minecraft:rails",
+              "state": {
+                "shape": "ascending_west"
+              }
+            }
+          }
+        }
+      },
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+          "location": {
+            "block": {
+              "block": "#minecraft:rails",
+              "state": {
+                "shape": "ascending_south"
+              }
+            }
+          }
+        }
+      },
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+          "location": {
+            "block": {
+              "block": "#minecraft:rails",
+              "state": {
+                "shape": "ascending_north"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+  

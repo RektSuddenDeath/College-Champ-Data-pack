@@ -1,0 +1,15 @@
+
+execute as @e[type=armor_stand,name="Intro"] run spectate @s @r[distance=0.1..]
+execute as @e[type=armor_stand,name="Intro"] run spectate @s @r[distance=0.1..]
+execute as @e[type=armor_stand,name="Intro"] run spectate @s @r[distance=0.1..]
+execute as @e[type=armor_stand,name="Intro"] run spectate @s @r[distance=0.1..]
+execute as @e[type=armor_stand,name="Intro"] run spectate @s @r[distance=0.1..]
+execute as @e[type=armor_stand,name="Intro"] run spectate @s @r[distance=0.1..]
+execute as @e[type=armor_stand,name="Intro"] run spectate @s @r[distance=0.1..]
+execute as @e[type=armor_stand,name="Intro"] run spectate @s @r[distance=0.1..]
+execute as @e[type=armor_stand,name="Intro"] run spectate @s @r[distance=0.1..]
+execute as @e[type=armor_stand,name="Intro"] run spectate @s @r[distance=0.1..]
+execute as @e[type=armor_stand,name="Intro"] run spectate @s @r[distance=0.1..]
+execute as @e[type=armor_stand,name="Intro"] run spectate @s @r[distance=0.1..]
+execute as @e[type=armor_stand,name="Intro"] run spectate @s @r[distance=0.1..]
+schedule function acerace:intro/hold 1t

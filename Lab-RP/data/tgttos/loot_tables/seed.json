@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:block",
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:wheat_seeds",
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": 1
+              },
+              {
+                "function":"minecraft:set_nbt",
+                "tag": "{display:{Name:'\"§a生命之种\"'}}"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

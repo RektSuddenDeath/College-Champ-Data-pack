@@ -1,0 +1,7 @@
+[
+    {
+      "function": "minecraft:set_nbt",
+      "tag": "{CanDestroy:[waxed_copper_block,waxed_cut_copper,waxed_oxidized_cut_copper,waxed_oxidized_copper]}"
+    }
+  ]
+  

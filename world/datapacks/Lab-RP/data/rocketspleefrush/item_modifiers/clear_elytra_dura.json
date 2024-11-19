@@ -1,0 +1,11 @@
+[
+  
+  {
+    "function": "minecraft:set_nbt",
+    "tag": "{Unbreakable:0b}"
+  },
+  {
+    "function": "minecraft:set_damage",
+    "damage": 0
+  }
+]

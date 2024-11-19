@@ -1,0 +1,1 @@
+give @s magma_cube_spawn_egg{EntityTag:{id:"minecraft:interaction",Tags:["meltdown_heater","heater_red"],height:1.01,width:1.01,CustomName:'""',CustomNameVisible:false},CanPlaceOn:["#minecraft:all_breakable_blocks"],display:{Name:'"§r§c加热器"'},HideFlags:24}

@@ -1,0 +1,1 @@
+bossbar set warning_bossbar name ["",{"text":"3","font":"font:hitw_spdinc","color":"#4e5c24"},{"font":"space:backspace","text":"57"},{"text":"墙的移动速度提升!","font":"font:ui_offset_60","color":"red"}]

@@ -1,0 +1,20 @@
+[
+    {
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "nbt": "{SelectedItem:{tag:{bmTool:1b}}}"
+      }
+    },
+    {
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "type_specific": {
+          "type": "player",
+          "gamemode": "adventure"
+        }
+      }
+    }
+  ]
+  

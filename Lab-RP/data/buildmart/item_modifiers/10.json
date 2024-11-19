@@ -1,0 +1,7 @@
+[
+    {
+      "function": "minecraft:set_nbt",
+      "tag": "{CanDestroy:[obsidian,diamond_ore,iron_ore,iron_block,lapis_ore,emerald_ore,gold_ore,gold_block,nether_quartz_ore,coal_block,redstone_ore]}"
+    }
+  ]
+  

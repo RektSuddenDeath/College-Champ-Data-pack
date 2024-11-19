@@ -1,0 +1,79 @@
+{
+    "type":"minecraft:block",
+    "pools":[
+        {
+            "rolls":1,
+            "conditions":[
+                    {
+                        "condition":"minecraft:match_tool",
+                        "predicate":{
+                            "items":["minecraft:netherite_pickaxe"],
+                            "nbt":"{bmTool:1b}"
+                        }
+                    }
+            ],
+
+            "entries":[
+                {
+                    "type":"minecraft:item",
+                    "name":"minecraft:quartz_block"
+                }
+            ]
+        },
+
+        {
+            "rolls":1,
+            "conditions":[
+                {
+                    "condition":"minecraft:inverted",
+                    "term":{
+                        "condition":"minecraft:match_tool",
+                        "predicate":{
+                            "enchantments":[
+                                {
+                                    "enchantment":"minecraft:silk_touch",
+                                    "levels":{
+                                        "min":1
+                                    }
+                                }
+                            ]
+                        }
+
+                    }
+                }
+            ],
+            "entries":[
+                {
+                    "type":"minecraft:item",
+                    "name":"minecraft:quartz"
+                }
+            ]
+        },
+
+        {
+            "rolls":1,
+            "conditions":[
+                {
+                    "condition":"minecraft:match_tool",
+                    "predicate":{
+                        "enchantments":[
+                            {
+                                "enchantment":"minecraft:silk_touch",
+                                "levels":{
+                                    "min":1
+                                }
+                            }
+                        ]
+                    }
+                }
+            ],
+
+            "entries":[
+                {
+                    "type":"minecraft:item",
+                    "name":"minecraft:nether_quartz_ore"
+                }
+            ]
+        }
+    ]   
+}

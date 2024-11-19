@@ -1,0 +1,19 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+      "W",
+      "W",
+      "X"
+    ],
+    "key": {
+      "W": {
+        "item": "minecraft:iron_ingot"
+      },
+      "X": {
+        "item": "minecraft:stick"
+      }
+    },
+    "result": {
+      "item": "minecraft:iron_sword"
+    }
+  }

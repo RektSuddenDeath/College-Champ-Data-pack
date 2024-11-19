@@ -1,0 +1,7 @@
+[
+    {
+      "function": "minecraft:set_nbt",
+      "tag": "{CanDestroy:[potted_dandelion,potted_poppy,potted_blue_orchid,potted_allium,potted_azure_bluet,potted_red_tulip,potted_orange_tulip,potted_white_tulip,potted_oxeye_daisy,potted_pink_tulip,potted_cornflower,potted_lily_of_the_valley,potted_torchflower,azalea,moss_block]}"
+    }
+  ]
+  

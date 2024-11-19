@@ -1,0 +1,12 @@
+
+tellraw @s ["",{"text": "College Championship 9 Results:"}]
+tellraw @s ["","1. ",{"text": "上海交通大学 华中科技大学","color": "blue"},": ",{"text": "19553"}]
+tellraw @s ["","2. ",{"text": "南京大学 浙江工业大学","color": "gold"},": ",{"text": "18313"}]
+tellraw @s ["","3. ",{"text": "东南大学 浙江大学","color": "green"},": ",{"text": "17526"}]
+tellraw @s ["","4. ",{"text": "燕山大学 中南大学","color": "red"},": ",{"text": "15759"}]
+tellraw @s ["","5. ",{"text": "西安交通大学 复旦大学","color": "light_purple"},": ",{"text": "15370"}]
+tellraw @s ["","6. ",{"text": "南京理工大学 大连理工大学","color": "yellow"},": ",{"text": "10404"}]
+tellraw @s ["","7. ",{"text": "上海应用技术大学 同济大学","color": "dark_aqua"},": ",{"text": "9665"}]
+tellraw @s ["","8. ",{"text": "上海工程技术大学 山东工商学院","color": "dark_purple"},": ",{"text": "6925"}]
+tellraw @s ["",{"text": "Dodgebolt: ","bold": true},{"text": "上交华科","color": "blue"}," 3:1 ",{"text": "南大浙工","color": "gold"}]
+tellraw @s ["",{"text": "上交华科队赢得了第 9 届高校小游戏联赛！","color": "blue","bold": true}]

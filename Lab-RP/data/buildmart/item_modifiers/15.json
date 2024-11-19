@@ -1,0 +1,7 @@
+[
+    {
+      "function": "minecraft:set_nbt",
+      "tag": "{CanDestroy:[nether_wart_block,nether_bricks,soul_sand,glowstone,nether_quartz_ore]}"
+    }
+  ]
+  

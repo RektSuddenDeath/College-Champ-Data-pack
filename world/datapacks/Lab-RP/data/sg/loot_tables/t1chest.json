@@ -1,0 +1,683 @@
+{
+    "type": "minecraft:chest",
+    "pools": [
+      {
+        "rolls": {
+          "min": 1,
+          "max": 2
+        },
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "weight": 40,
+            "name": "minecraft:wooden_sword",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{HideFlags:8,Unbreakable:1b,CanDestroy:[tall_grass,tinted_glass,glass_pane,white_stained_glass_pane,light_gray_stained_glass_pane,gray_stained_glass_pane,black_stained_glass_pane,brown_stained_glass_pane,red_stained_glass_pane,orange_stained_glass_pane,yellow_stained_glass_pane,lime_stained_glass_pane,green_stained_glass_pane,cyan_stained_glass_pane,light_blue_stained_glass_pane,blue_stained_glass_pane,purple_stained_glass_pane,magenta_stained_glass_pane,pink_stained_glass,cobweb,glass,white_stained_glass,light_gray_stained_glass,gray_stained_glass,black_stained_glass,brown_stained_glass,red_stained_glass,orange_stained_glass,yellow_stained_glass,lime_stained_glass,green_stained_glass,cyan_stained_glass,light_blue_stained_glass,blue_stained_glass,purple_stained_glass,magenta_stained_glass,pink_stained_glass,cobweb]}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 24,
+            "name": "minecraft:stone_sword",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{HideFlags:8,Unbreakable:1b,CanDestroy:[tall_grass,tinted_glass,glass_pane,white_stained_glass_pane,light_gray_stained_glass_pane,gray_stained_glass_pane,black_stained_glass_pane,brown_stained_glass_pane,red_stained_glass_pane,orange_stained_glass_pane,yellow_stained_glass_pane,lime_stained_glass_pane,green_stained_glass_pane,cyan_stained_glass_pane,light_blue_stained_glass_pane,blue_stained_glass_pane,purple_stained_glass_pane,magenta_stained_glass_pane,pink_stained_glass,cobweb,glass,white_stained_glass,light_gray_stained_glass,gray_stained_glass,black_stained_glass,brown_stained_glass,red_stained_glass,orange_stained_glass,yellow_stained_glass,lime_stained_glass,green_stained_glass,cyan_stained_glass,light_blue_stained_glass,blue_stained_glass,purple_stained_glass,magenta_stained_glass,pink_stained_glass,cobweb]}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 24,
+            "name": "minecraft:wooden_axe",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{HideFlags:8,Unbreakable:1b,CanDestroy:[tall_grass,tinted_glass,glass_pane,white_stained_glass_pane,light_gray_stained_glass_pane,gray_stained_glass_pane,black_stained_glass_pane,brown_stained_glass_pane,red_stained_glass_pane,orange_stained_glass_pane,yellow_stained_glass_pane,lime_stained_glass_pane,green_stained_glass_pane,cyan_stained_glass_pane,light_blue_stained_glass_pane,blue_stained_glass_pane,purple_stained_glass_pane,magenta_stained_glass_pane,pink_stained_glass,cobweb,glass,white_stained_glass,light_gray_stained_glass,gray_stained_glass,black_stained_glass,brown_stained_glass,red_stained_glass,orange_stained_glass,yellow_stained_glass,lime_stained_glass,green_stained_glass,cyan_stained_glass,light_blue_stained_glass,blue_stained_glass,purple_stained_glass,magenta_stained_glass,pink_stained_glass,cobweb]}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 8,
+            "name": "minecraft:stone_axe",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{HideFlags:8,Unbreakable:1b,CanDestroy:[tall_grass,tinted_glass,glass_pane,white_stained_glass_pane,light_gray_stained_glass_pane,gray_stained_glass_pane,black_stained_glass_pane,brown_stained_glass_pane,red_stained_glass_pane,orange_stained_glass_pane,yellow_stained_glass_pane,lime_stained_glass_pane,green_stained_glass_pane,cyan_stained_glass_pane,light_blue_stained_glass_pane,blue_stained_glass_pane,purple_stained_glass_pane,magenta_stained_glass_pane,pink_stained_glass,cobweb,glass,white_stained_glass,light_gray_stained_glass,gray_stained_glass,black_stained_glass,brown_stained_glass,red_stained_glass,orange_stained_glass,yellow_stained_glass,lime_stained_glass,green_stained_glass,cyan_stained_glass,light_blue_stained_glass,blue_stained_glass,purple_stained_glass,magenta_stained_glass,pink_stained_glass,cobweb]}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:empty",
+            "weight": 24
+          }
+        ]
+      },
+      {
+        "rolls": {
+          "min": 1,
+          "max": 4
+        },
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "weight": 24,
+            "name": "minecraft:leather_helmet"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 27,
+            "name": "minecraft:leather_chestplate"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 24,
+            "name": "minecraft:leather_leggings"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 15,
+            "name": "minecraft:leather_boots"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 7,
+            "name": "minecraft:golden_helmet"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 10,
+            "name": "minecraft:golden_chestplate"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 10,
+            "name": "minecraft:golden_leggings"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 10,
+            "name": "minecraft:golden_boots"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 7,
+            "name": "minecraft:iron_helmet"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 3,
+            "name": "minecraft:iron_chestplate"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 3,
+            "name": "minecraft:iron_leggings"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 10,
+            "name": "minecraft:iron_boots"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 7,
+            "name": "minecraft:chainmail_helmet"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 5,
+            "name": "minecraft:chainmail_chestplate"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 8,
+            "name": "minecraft:chainmail_leggings"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 5,
+            "name": "minecraft:chainmail_boots"
+          },
+          {
+            "type": "minecraft:empty",
+            "weight": 180
+          }
+        ],
+        "functions": [
+          {
+            "function": "minecraft:set_nbt",
+            "tag": "{Unbreakable:1b}"
+          }
+        ]
+      },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "weight": 10,
+            "name": "minecraft:bow",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{Unbreakable:1b}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 8,
+            "name": "minecraft:crossbow",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{Unbreakable:1b}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 32,
+            "name": "minecraft:arrow",
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "min": 2,
+                  "max": 4
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:empty",
+            "weight": 50
+          }
+        ]
+      },
+      {
+        "rolls": {
+          "min": 2,
+          "max": 3
+        },
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "weight": 32,
+            "name": "minecraft:apple",
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "min": 1,
+                  "max": 3
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 12,
+            "name": "minecraft:melon_slice",
+            "functions": [
+              {
+                "function": "minecraft:limit_count",
+                "limit": {
+                  "min": 5,
+                  "max": 7
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 9,
+            "name": "minecraft:golden_carrot",
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "min": 1,
+                  "max": 2
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 24,
+            "name": "minecraft:baked_potato",
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "min": 1,
+                  "max": 2
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 24,
+            "name": "minecraft:cooked_beef",
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "min": 1,
+                  "max": 2
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 24,
+            "name": "minecraft:cooked_chicken",
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "min": 1,
+                  "max": 2
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 24,
+            "name": "minecraft:cooked_cod",
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "min": 1,
+                  "max": 2
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 7,
+            "name": "minecraft:cookie",
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "min": 4,
+                  "max": 6
+                }
+              },
+              {
+                "function": "minecraft:limit_count",
+                "limit": {
+                  "min": 4,
+                  "max": 10
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 18,
+            "name": "minecraft:pumpkin_pie",
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "min": 2,
+                  "max": 3
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:empty",
+            "weight": 50
+          }
+        ]
+      },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "weight": 2,
+            "name": "minecraft:potion",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{Potion:\"fire_resistance\"}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 3,
+            "name": "minecraft:potion",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{Potion:\"swiftness\"}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 15,
+            "name": "minecraft:splash_potion",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{Potion:\"healing\"}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 5,
+            "name": "minecraft:splash_potion",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{Potion:\"strong_healing\"}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 25,
+            "name": "minecraft:splash_potion",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{Potion:\"minecraft:harming\"}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 5,
+            "name": "minecraft:splash_potion",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{Potion:\"minecraft:strong_harming\"}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:empty",
+            "weight": 45
+          }
+        ]
+      },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "weight": 2,
+            "name": "minecraft:enchanted_book",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{StoredEnchantments:[{id:\"minecraft:protection\",lvl:1s}]}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 2,
+            "name": "minecraft:enchanted_book",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{StoredEnchantments:[{id:\"minecraft:feather_falling\",lvl:2s}]}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 2,
+            "name": "minecraft:enchanted_book",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{StoredEnchantments:[{id:\"minecraft:fire_protection\",lvl:1s}]}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:enchanted_book",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{StoredEnchantments:[{id:\"minecraft:sharpness\",lvl:1s}]}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 2,
+            "name": "minecraft:enchanted_book",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{StoredEnchantments:[{id:\"minecraft:power\",lvl:1s}]}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:enchanted_book",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{StoredEnchantments:[{id:\"minecraft:punch\",lvl:1s}]}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:enchanted_book",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{StoredEnchantments:[{id:\"minecraft:quick_charge\",lvl:1s}]}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:empty",
+            "weight": 139
+          }
+        ]
+      },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "weight": 10,
+            "name": "minecraft:stick",
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 7,
+            "name": "minecraft:iron_ingot"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:diamond"
+          },
+          {
+            "type": "minecraft:empty",
+            "weight": 82
+          }
+        ]
+      },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:cobweb",
+            "weight": 10,
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{HideFlags:24,CanPlaceOn:[\"#minecraft:all_breakable_blocks\"]}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:empty",
+            "weight": 90
+          }
+        ]
+      },
+
+
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:green_candle",
+            "weight": 50,
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{CustomModelData:20241001}"
+              },
+              {
+                "function": "minecraft:set_name",
+                "name": "§r§f§a绿色糖果"
+              },
+              {
+                "function": "minecraft:set_lore",
+                "lore": [
+                  {
+                    "text": "§r§f可在§6Decision Dome§r§f产生§b0.05x§r§f倍率变更"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:orange_candle",
+            "weight": 30,
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{CustomModelData:20241001}"
+              },
+              {
+                "function": "minecraft:set_name",
+                "name": "§r§f§6橙色糖果"
+              },
+              {
+                "function": "minecraft:set_lore",
+                "lore": [
+                  {
+                    "text": "§r§f可在§6Decision Dome§r§f产生§b0.10x§r§f倍率变更"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:purple_candle",
+            "weight": 10,
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{CustomModelData:20241001}"
+              },
+              {
+                "function": "minecraft:set_name",
+                "name": "§r§f§5紫色糖果"
+              },
+              {
+                "function": "minecraft:set_lore",
+                "lore": [
+                  {
+                    "text": "§r§f可在§6Decision Dome§r§f产生§b0.20x§r§f倍率变更"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:blue_candle",
+            "weight": 8,
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{CustomModelData:20241001}"
+              },
+              {
+                "function": "minecraft:set_name",
+                "name": "§r§f§9蓝色糖果"
+              },
+              {
+                "function": "minecraft:set_lore",
+                "lore": [
+                  {
+                    "text": "§r§f可在§6Decision Dome§r§f产生§b0.30x§r§f倍率变更"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:red_candle",
+            "weight": 2,
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{CustomModelData:20241001}"
+              },
+              {
+                "function": "minecraft:set_name",
+                "name": "§r§f§c红色糖果"
+              },
+              {
+                "function": "minecraft:set_lore",
+                "lore": [
+                  {
+                    "text": "§r§f可在§6Decision Dome§r§f产生§b0.50x§r§f倍率变更"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

@@ -1,0 +1,19 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:barrier"
+      },
+      "title": "4",
+      "description": "",
+      "show_toast": false,
+      "announce_to_chat": false,
+      "hidden": true
+    },
+    "parent": "utils:playerid",
+    "criteria": {
+      "a": {
+        "trigger": "minecraft:impossible"
+      }
+    }
+  }
+  

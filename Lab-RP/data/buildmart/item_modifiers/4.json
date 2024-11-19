@@ -1,0 +1,7 @@
+[
+    {
+      "function": "minecraft:set_nbt",
+      "tag": "{CanDestroy:[blue_stained_glass,blue_wool]}"
+    }
+  ]
+  

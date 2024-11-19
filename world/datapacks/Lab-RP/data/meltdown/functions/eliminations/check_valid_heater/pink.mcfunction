@@ -1,0 +1,1 @@
+execute as @e[type=interaction,tag=heater_pink] at @s run tag @a[team=pink,tag=meltdown_alive,distance=0..3.4] add elimination_check_being_heated

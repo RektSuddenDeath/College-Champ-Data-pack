@@ -1,0 +1,35 @@
+{
+    "parent": "sot:root",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "player": {
+            "location": {
+              "position": {
+                "x": {
+                    "min": 1700,
+                    "max": 3300
+                  },
+                  "z": {
+                    "min": 1700,
+                    "max": 3300
+                  }
+              }
+            }
+          },
+          "items": [
+            {
+              "items": [
+                "minecraft:yellow_concrete"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "rewards": {
+      "function": "sot:obtain_key/yellow"
+    }
+  }
+  

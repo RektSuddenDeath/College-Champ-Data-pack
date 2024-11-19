@@ -1,0 +1,36 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:barrier"
+      },
+      "title": "Dealt any damage to warden during Sumo Battle",
+      "description": "",
+      "show_toast": false,
+      "announce_to_chat": false,
+      "hidden": true
+    },
+    "parent": "sot:root",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:player_hurt_entity",
+        "conditions": {
+          "player": {
+            "type": "minecraft:player",
+            "type_specific": {
+              "type": "player",
+              "advancements": {
+                "sot:in_warden_fight": true
+              }
+            }
+          },
+          "entity": {
+            "type": "minecraft:warden"
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "sot:modifiers/sumo_warden/advancement_trig/score_a_hit"
+    }
+  }
+  

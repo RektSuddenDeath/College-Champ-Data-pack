@@ -1,0 +1,12 @@
+bossbar remove bb_match1
+bossbar remove bb_match2
+bossbar remove bb_match3
+bossbar remove bb_match4
+bossbar remove bb_players_red
+bossbar remove bb_players_blue
+bossbar remove bb_players_green
+bossbar remove bb_players_yellow
+bossbar remove bb_players_cyan
+bossbar remove bb_players_pink
+bossbar remove bb_players_orange
+bossbar remove bb_players_purple

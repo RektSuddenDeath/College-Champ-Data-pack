@@ -1,0 +1,32 @@
+1- Spring
+1-1 Angled Bounce
+1-2 One Upper
+1-3 From the Beneath
+2- Summer
+2-1 The Six Rings
+2-2 Wall Jumps
+2-3 Triple Bounce
+3- Autumn
+3-1 Trouble Brewing
+3-2 Harvest Season
+3-3 The Narrow Edge
+4- Winter
+4-1 Icy Leap
+4-2 The Edge Clinger
+4-3 The Holey Moley
+5- Ocean
+5-1 Pillars
+5-2 Arches
+5-3 The Get-Around Issue
+6- Mountain
+6-1 Turning Staircase
+6-2 The Turning Forks
+6-3 Trapdoor Swappage
+7- Nether
+7-1 The Chained Run
+7-2 The Swapcicles
+7-3 The Ladder Flip
+8- End
+8-1 Take The L
+8-2 The Chain Pipes
+8-3 The City at The End of The Game
